@@ -1,2 +1,4 @@
 # Nithin
-nithin's repository
+
+This is my trial repository.  Editing phase 1
+
